@@ -1,2 +1,2 @@
 # finance
-Bringing Finance equations to Common Lisp
+Bringing finance equations to Common Lisp!
